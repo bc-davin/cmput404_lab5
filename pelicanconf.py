@@ -1,7 +1,7 @@
 AUTHOR = 'Davin'
 SITENAME = 'Mysite Lab05'
 SITEURL = ''
-
+THEME = 'templates/mytheme'
 PATH = 'content'
 
 TIMEZONE = 'America/Edmonton'
